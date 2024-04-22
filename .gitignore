@@ -1,0 +1,6 @@
+# Ignora todos los archivos de texto
+*.exe
+
+*.obj
+
+*.tds
